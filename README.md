@@ -11,6 +11,6 @@
 # Controlador Proporcional Integral
 Controlador_PI é um projeto que a partir dos dados cria uma função de tranferência.
 
-## 👨🏻‍💻 Autores
+## 👨🏻‍💻 Autor
 
 Renan Dias ([Entre em contato!](https://www.linkedin.com/in/renan-dias-faria-54a599190/))
